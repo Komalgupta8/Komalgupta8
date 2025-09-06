@@ -10,8 +10,8 @@
   <a href="mailto:komalguptagupta234@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" /></a>
   <a href="https://www.linkedin.com/in/komalgupta8/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://github.com/Komalgupta8"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" /></a>
-  <a href="https://leetcode.com/LEETCODE_USERNAME"><img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" /></a>
-  <a href="https://medium.com/@MEDIUM_USERNAME"><img src="https://img.shields.io/badge/Medium-Blogs-black?style=for-the-badge&logo=medium" /></a>
+  <a href="https://leetcode.com/u/komalgupta8/"><img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" /></a>
+  <a href="https://medium.com/@komalguptagupta234"><img src="https://img.shields.io/badge/Medium-Blogs-black?style=for-the-badge&logo=medium" /></a>
 </p>
 
 ---
