@@ -21,8 +21,8 @@
 - 🏆 **Flipkart GRiD 7.0 Semi-Finalist** (National Level, 2025)
 - 💻 Skilled in **Java, Spring Boot, MERN Stack, SQL & NoSQL, DSA**
 - 🔥 Made **200+ GitHub contributions (commits, PRs, repos)**
-- 📈 Maintained a **longest streak of 15 days** on GitHub
-- 🌱 Contributor @ **GDG IGDTUW (Snow Script WOC)** | Published blogs on **Medium**
+- 🌱 Exploring AI agents, LLMs, RAG, and Prompt Engineering
+- 💡 Contributor @ **GDG IGDTUW (Snow Script WOC)** | Published blogs on **Medium**
 
 ---
 
