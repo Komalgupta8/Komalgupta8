@@ -18,7 +18,7 @@
 
 ## 👩‍💻 About Me
 - 🎓 Pre-final year **B.Tech CS student @ GLA University (2022–2026)**
-- 🏆 **Flipkart GRiD Semi-Finalist** (National Level, 2024)
+- 🏆 **Flipkart GRiD 7.0 Semi-Finalist** (National Level, 2025)
 - 💻 Skilled in **Java, Spring Boot, MERN Stack, SQL & NoSQL, DSA**
 - 🔥 Made **200+ GitHub contributions (commits, PRs, repos)**
 - 📈 Maintained a **longest streak of 15 days** on GitHub
