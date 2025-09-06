@@ -26,9 +26,16 @@
 
 ---
 
-## 🛠️ Tech Stack (Core)
+## 🛠️ Core Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,react,nodejs,express,js,html,css,git,github,postman,swagger,intellij,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,react,nodejs,express,javascript,html,css,git,github,postman,swagger,intellij,vscode" />
+</p>
+
+---
+
+## 🖥️ Most Used Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,javascript,html,css,python,spring,nodejs" />
 </p>
 
 ---
@@ -45,13 +52,10 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Komalgupta8&show_icons=true&theme=radical&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Komalgupta8&layout=compact&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Komalgupta8&layout=compact&theme=radical&hide=css,html" height="165" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Komalgupta8&theme=radical" height="180" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Komalgupta8&theme=radical" />
 </p>
 
 ---
