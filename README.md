@@ -21,7 +21,7 @@
 - 🏆 **Flipkart GRiD 7.0 Semi-Finalist** (National Level, 2025)
 - 💻 Skilled in **Java, Spring Boot, MERN Stack, SQL & NoSQL, DSA**
 - 🔥 Made **200+ GitHub contributions (commits, PRs, repos)**
-- 🌱 Exploring AI agents, LLMs, RAG, and Prompt Engineering
+- 🌱 Exploring AI agents, LLMs, and Prompt Engineering
 - 💡 Contributor @ **GDG IGDTUW (Snow Script WOC)** | Published blogs on **Medium**
 
 ---
