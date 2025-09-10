@@ -5,6 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Komal+Gupta+%F0%9F%91%8B;Backend+%26+Full-Stack+Developer;Spring+Boot+%7C+MERN+%7C+DSA;Always+Learning+%26+Building" alt="Typing Animation" />
 </p>
 
+
 <!-- Badges -->
 <p align="center">
   <a href="mailto:komalguptagupta234@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" /></a>
